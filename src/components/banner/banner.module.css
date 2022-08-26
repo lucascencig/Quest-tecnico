@@ -182,13 +182,14 @@
     flex-direction: column;
     justify-content: center;
     margin: auto;
-    position: absolute;
-    inset: 80% 0;
+    position: relative;
+    /* inset: 80% 0; */
     background-color: #00000000;
     color: white;
     font-family: 'Roboto', sans-serif;
     text-transform: uppercase;
-    top: 35%;
+    padding: 1.5em;
+    /* top: 25%; */
   }
 
   .simple_text {

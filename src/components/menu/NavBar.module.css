@@ -2,7 +2,6 @@
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
-  /* justify-content: space-between; */
   justify-content: space-around;
   align-items: center;
   height: 8vh;
@@ -33,7 +32,6 @@
   margin: auto;
   width: 50%;
   font-size: 16px;
-
 }
 
 .nav_bar ul {
@@ -58,13 +56,9 @@
   content: "▾";
 }
 
-
-
 .nav_bar li:hover {
   color: #000000;
   transition: all 0.3s ease;
-
-
 }
 
 .nav_bar a {
@@ -77,7 +71,6 @@
   color: #2ea1b4;
 }
 
-
 .nav_bar ul li ul {
   position: absolute;
   display: none;
@@ -86,8 +79,6 @@
   border: solid 2px #d9d9d9;
   border-radius: 5px;
 }
-
-
 
 .nav_bar ul li ul li {
   position: relative;
@@ -100,12 +91,10 @@
 
 .nav_bar ul li ul li:hover {
   background-color: #bebebe28;
-
 }
 
 .nav_bar ul li ul li::after {
   content: "";
-
 }
 
 .nav_bar li:hover>ul {
@@ -134,7 +123,6 @@
   width: 60px;
   height: 60px;
   font-weight: 100;
-
 }
 
 .button_menu_input {
@@ -159,7 +147,6 @@
   z-index: 3;
   transform: translateY(0%);
   transition: all 0.2s ease;
-  /* background-color: #d2d2d2e5; */
   backdrop-filter: blur(15px);
   font-size: 16px;
   font-weight: 700;
@@ -180,9 +167,7 @@
   z-index: 3;
   transform: translateY(-200%);
   transition: all 0.2s ease;
-  /* background-color: #d2d2d2e5; */
   backdrop-filter: blur(15px);
-
 }
 
 .button_buy {
@@ -213,7 +198,6 @@
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
-    /* justify-content: space-between; */
     justify-content: space-around;
     align-items: center;
     height: 8vh;
@@ -244,7 +228,6 @@
     margin: auto;
     width: 70%;
     font-size: 16px;
-
   }
 
   .nav_bar ul {
@@ -269,13 +252,9 @@
     content: "▾";
   }
 
-
-
   .nav_bar li:hover {
     color: #000000;
     transition: all 0.3s ease;
-
-
   }
 
   .nav_bar a {
@@ -288,7 +267,6 @@
     color: #2ea1b4;
   }
 
-
   .nav_bar ul li ul {
     position: absolute;
     display: none;
@@ -297,8 +275,6 @@
     border: solid 2px #d9d9d9;
     border-radius: 5px;
   }
-
-
 
   .nav_bar ul li ul li {
     position: relative;
@@ -311,12 +287,10 @@
 
   .nav_bar ul li ul li:hover {
     background-color: #bebebe28;
-
   }
 
   .nav_bar ul li ul li::after {
     content: "";
-
   }
 
   .nav_bar li:hover>ul {
@@ -345,7 +319,6 @@
     width: 60px;
     height: 60px;
     font-weight: 100;
-
   }
 
   .button_menu_input {
@@ -370,7 +343,6 @@
     z-index: 3;
     transform: translateY(0%);
     transition: all 0.2s ease;
-    /* background-color: #d2d2d2e5; */
     backdrop-filter: blur(15px);
     font-size: 16px;
     font-weight: 700;
@@ -391,9 +363,7 @@
     z-index: 3;
     transform: translateY(-200%);
     transition: all 0.2s ease;
-    /* background-color: #d2d2d2e5; */
     backdrop-filter: blur(15px);
-
   }
 
   .button_buy {
@@ -456,7 +426,6 @@
     width: 70%;
     font-size: 16px;
     flex-direction: column-reverse;
-
   }
 
   .nav_bar ul {
@@ -465,7 +434,6 @@
     margin: auto;
     justify-content: center;
     align-items: center;
-    /* flex-direction: column; */
   }
 
   .nav_bar li {
@@ -486,13 +454,9 @@
     content: "▾";
   }
 
-
-
   .nav_bar li:hover {
     color: #000000;
     transition: all 0.3s ease;
-
-
   }
 
   .nav_bar a {
@@ -505,7 +469,6 @@
     color: #2ea1b4;
   }
 
-
   .nav_bar ul li ul {
     position: absolute;
     display: none;
@@ -514,8 +477,6 @@
     border: solid 2px #d9d9d9;
     border-radius: 5px;
   }
-
-
 
   .nav_bar ul li ul li {
     position: relative;
@@ -528,12 +489,10 @@
 
   .nav_bar ul li ul li:hover {
     background-color: #bebebe28;
-
   }
 
   .nav_bar ul li ul li::after {
     content: "";
-
   }
 
   .nav_bar li:hover>ul {
@@ -563,7 +522,6 @@
     width: 60px;
     height: 60px;
     font-weight: 100;
-
   }
 
   .button_menu_input {
@@ -588,7 +546,6 @@
     z-index: 3;
     transform: translateY(0%);
     transition: all 0.2s ease;
-    /* background-color: #d2d2d2e5; */
     backdrop-filter: blur(15px);
     font-size: 16px;
     font-weight: 700;
@@ -609,9 +566,7 @@
     z-index: 3;
     transform: translateY(-200%);
     transition: all 0.2s ease;
-    /* background-color: #d2d2d2e5; */
     backdrop-filter: blur(15px);
-
   }
 
   .button_buy {

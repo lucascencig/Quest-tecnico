@@ -1,5 +1,7 @@
 import React from "react";
+
 import watchApple from '../../assets/watchApple.png'
+
 import s from '../branding/branding.module.css'
 
 export default function Branding() {

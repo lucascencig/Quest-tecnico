@@ -1,6 +1,7 @@
 import React from "react";
-import mapa from '../../assets/mapa.jpg'
+
 import { FaMapMarkerAlt, FaPhoneAlt, FaGlobeAmericas, FaTelegramPlane, FaFacebookF, FaInstagram, FaGoogle, FaTwitter, FaYoutube } from 'react-icons/fa'
+
 import s from '../footer/footer.module.css'
 
 export default function Footer() {

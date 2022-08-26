@@ -1,6 +1,7 @@
 import React from "react";
+
 import { FaSearch } from 'react-icons/fa'
-import { NavLink } from 'react-router-dom';
+
 import s from '../menu/NavBar.module.css';
 
 export default function NavBar() {

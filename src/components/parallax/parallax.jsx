@@ -1,4 +1,5 @@
 import React from "react";
+
 import s from '../parallax/parallax.module.css'
 
 export default function Parallax() {

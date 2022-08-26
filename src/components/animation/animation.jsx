@@ -1,7 +1,10 @@
 import React from "react";
+
 import work from '../../assets/work.jpeg'
 import work2 from '../../assets/work2.jpg'
+
 import s from '../animation/animation.module.css'
+
 export default function Animation() {
 
   return (

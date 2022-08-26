@@ -1,5 +1,5 @@
 import React from "react";
-import workingWith from '../../assets/workingWith.jpg'
+
 import s from '../news/news.module.css'
 
 export default function News() {

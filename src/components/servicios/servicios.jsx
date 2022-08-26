@@ -1,6 +1,8 @@
 import React from "react";
+
 import { FaLaptop } from 'react-icons/fa'
 import { TbBorderAll, TbBolt } from 'react-icons/tb'
+
 import s from '../servicios/servicios.module.css'
 
 export default function Services() {

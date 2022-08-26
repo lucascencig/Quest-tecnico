@@ -1,6 +1,9 @@
 import React from "react";
+
 import bannerPrincipal from '../../assets/BannerPrincipal.png'
+
 import s from '../banner/banner.module.css'
+
 export default function Banner() {
 
   return (
